@@ -63,11 +63,19 @@ Meu objetivo é me tornar um desenvolvedor backend capaz de construir sistemas e
 
 ---
 
-## 📫 Contato
+## 🌐 Redes Sociais
 
-* GitHub: [Arthur Mota GitHub](https://github.com/arthur-rmota?utm_source=chatgpt.com)
+<div align="center">
 
----
+<a href="https://www.instagram.com/arthur.rmota/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/arthur-rmota" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 <div align="center">
 
