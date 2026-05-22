@@ -20,7 +20,7 @@ Atualmente estou focado em evoluir minhas habilidades em **Java** e **Python** e
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i= java,python,js,mysql,html,css,git,github,vscode,netbeans" />
+<img src="https://skillicons.dev/icons?i=java,python,js,mysql,html,css,git,github,vscode,netbeans" />
 
 </div>
 
