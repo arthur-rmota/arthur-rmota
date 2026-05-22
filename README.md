@@ -1,3 +1,4 @@
+## About me
 Olá! Eu sou **Arthur Mota**, estudante de **Ciência da Computação** e desenvolvedor em formação, apaixonado por tecnologia, música, programação e solução de problemas.
 
 Atualmente estou focado em evoluir minhas habilidades em **Java** e **Python** enquanto aprofundo meus conhecimentos em arquitetura de computadores, lógica e fundamentos da computação. Gosto de transformar ideias em projetos práticos, aprender construindo, ser melhor que ontem e pior que amanhã.
