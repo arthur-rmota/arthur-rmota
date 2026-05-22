@@ -21,7 +21,7 @@ Atualmente estou focado em evoluir minhas habilidades em **Python**, **JavaScrip
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,arduino,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github" />
 
 </div>
 
