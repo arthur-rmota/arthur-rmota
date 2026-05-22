@@ -78,7 +78,7 @@ Meu objetivo é me tornar um desenvolvedor backend capaz de construir sistemas e
 
 <div align="center">
 <br>
-💭 **“O impossível é só questão de opinião.”** 
+💭 <strong>“O impossível é só questão de opinião.”</strong>
 <br>
 — Chorão, Charlie Brown Jr.
 
