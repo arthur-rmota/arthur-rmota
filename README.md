@@ -63,6 +63,6 @@ Meu objetivo é me tornar um desenvolvedor backend capaz de construir sistemas e
 
 <div align="center">
 
-> *“Aprender construindo.”*
+ *“Aprender construindo.”*
 
 </div>
