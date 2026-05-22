@@ -77,7 +77,8 @@ Meu objetivo é me tornar um desenvolvedor backend capaz de construir sistemas e
 </div>
 
 <div align="center">
-
- *“Aprender construindo.”*
+<br>
+💭 *“O impossível é só questão de opinião.”*  
+— Chorão, :contentReference[oaicite:0]{index=0}
 
 </div>
