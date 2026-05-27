@@ -5,16 +5,6 @@ Atualmente estou focado em evoluir minhas habilidades em **Java** e **Python** e
 
 ---
 
-## 🚀 Atualmente estudando e desenvolvendo
-
-* Desenvolvimento Backend
-* Programação orientada a Objetos e Eventos
-* Java, Python e JavaScript
-* Estrutura de Dados, Engenharia de software e Banco de dados
-* Projetos pessoais e acadêmicos
-
----
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,js,mysql,html,css,git,github,vscode,netbeans" />
