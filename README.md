@@ -35,7 +35,29 @@ Gosto de aprender construindo projetos, entendendo como as coisas funcionam por 
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projeto em destaque
+
+### 🐾 [PetCare System](https://github.com/becalencar/petcare-system)
+
+Sistema desktop de gerenciamento para clínica veterinária, desenvolvido em **Java** com interface gráfica **Swing**. Projeto acadêmico de Programação Orientada a Objetos, feito em parceria com [Rebeca Alencar](https://github.com/becalencar), aplicando na prática herança, encapsulamento, abstração, polimorfismo e interfaces.
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+</div>
+
+**Principais funcionalidades:**
+- 🐶 CRUD completo de animais, tutores e veterinários
+- 🩺 Registro de consultas vinculadas a animal e veterinário
+- 📋 Sistema de prontuários com histórico e custo de procedimentos
+- 🏷️ Categorização de procedimentos
+
+📎 Repositório: **[github.com/becalencar/petcare-system](https://github.com/becalencar/petcare-system)**
+
+---
+
+## 🗂️ Outros projetos
 
 | Projeto | Descrição | Stack |
 |---|---|---|
