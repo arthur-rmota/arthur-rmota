@@ -116,10 +116,10 @@ Sistema desktop de gerenciamento para clínica veterinária, desenvolvido em **J
   <a href="https://www.instagram.com/arthur.rmota/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:arthurrmota740@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario">
+  <a href="https://www.linkedin.com/in/arthur-rodrigues-30b08a364">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
