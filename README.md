@@ -1,13 +1,35 @@
-## About me
-Olá! Eu sou **Arthur Mota**, estudante de **Ciência da Computação**, apaixonado por tecnologia, música, programação e solução de problemas.
-
-Atualmente estou focado em evoluir minhas habilidades em **Java** e **Python** enquanto aprofundo meus conhecimentos em arquitetura de software, lógica e boas práticas de programação. Gosto de transformar ideias em projetos práticos, aprender construindo e priorizo ser melhor que ontem e pior que amanhã.
-
----
+# 👋 Olá, eu sou Arthur Mota!
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,mysql,html,css,git,github,vscode,netbeans" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Arthur%20Mota&fontSize=40&fontColor=ffffff" />
+
+</div>
+
+## 🚀 Sobre mim
+
+Sou **Arthur Mota**, estudante de **Ciência da Computação** e apaixonado por tecnologia, programação e criação de soluções.
+
+Atualmente estou focado em evoluir como desenvolvedor, aprimorando meus conhecimentos em:
+
+- ☕ **Java**
+- 🐍 **Python**
+- 🌐 **Desenvolvimento Web**
+- 🏗️ **Arquitetura de Software**
+- 🧠 **Lógica e Estruturas de Dados**
+
+Gosto de aprender construindo projetos, entender como as coisas funcionam por baixo dos panos e buscar evolução constante.
+
+> "O impossível é só questão de opinião."  
+> — Chorão
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode,idea,linux" />
 
 </div>
 
@@ -23,41 +45,29 @@ Atualmente estou focado em evoluir minhas habilidades em **Java** e **Python** e
 
 </div>
 
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=arthur-rmota&theme=tokyonight&hide_border=false&v=1" />
-</div>
-
----
-
-## 🎯 Objetivo
-
-Meu objetivo durante a jornada da faculdade é me tornar um desenvolvedor backend capaz de construir sistemas eficientes, escaláveis e bem estruturados, sempre buscando evoluir tecnicamente e criar projetos cada vez mais desafiadores.
-
----
-
-## 🌐 Redes Sociais
-
-<div align="center">
-
-<a href="https://www.instagram.com/arthur.rmota/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/arthur-rmota" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<div align="center">
 <br>
-💭 <strong>“O impossível é só questão de opinião.”</strong>
-<br>
-— Chorão, Charlie Brown Jr.
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=arthur-rmota&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+## 📈 Minha jornada
+
+```text
+2024
+│
+├── 🧠 Comecei minha jornada na Ciência da Computação
+│
+2025
+│
+├── ☕ Aprimorando Java e Python
+├── 🌐 Desenvolvimento Web
+├── 🏗️ Projetos pessoais
+│
+2026+
+│
+└── 🚀 Evoluindo para me tornar um desenvolvedor backend
