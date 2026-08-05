@@ -37,8 +37,7 @@ Atualmente estou focado em evoluir minhas habilidades em **Java** e **Python** e
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-rmota&theme=tokyonight&hide_border=false" />
-
+<img src="https://streak-stats.demolab.com?user=arthur-rmota&theme=tokyonight&hide_border=false&v=1" />
 </div>
 
 ---
