@@ -30,7 +30,7 @@ Gosto de aprender construindo projetos, entendendo como as coisas funcionam por 
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,postgres,git,github,vscode,idea,netbeans,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode,idea,eclipse" />
 </div>
 
 ---
