@@ -1,129 +1,80 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arthur%20Mota&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Arthur Mota" />  <h3>Estudante de Ciência da Computação | Desenvolvimento de Software</h3>  <p>Backend • Arquitetura de Software • Desenvolvimento Web</p>  <a href="https://www.linkedin.com/in/arthur-rodrigues-30b08a364"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:arthurrmota740@gmail.com"><img src="https://img.shields.io/badge/E--mail-2C5364?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://www.instagram.com/arthur.rmota/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</div>👨‍💻 Sobre mim
+Sou estudante de Ciência da Computação desde 2024, com interesse em desenvolvimento backend, arquitetura de software e boas práticas de engenharia de software.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Arthur%20Mota&fontSize=40&fontColor=ffffff" />
+Tenho desenvolvido aplicações web e desktop, explorando desde a modelagem de dados e a organização do código até a construção de interfaces, integração com APIs e publicação de aplicações.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Foco+em+Backend+e+Arquitetura+de+Software;Java+%7C+Python+%7C+JavaScript+%7C+Clean+Code" alt="Typing SVG" />
+Gosto de entender como os sistemas funcionam, transformar problemas reais em soluções e evoluir tecnicamente por meio de projetos práticos e trabalho em equipe.
 
-</div>
+Atualmente, estou aprofundando meus conhecimentos em Java, Python, APIs REST, estruturas de dados, arquitetura de software e desenvolvimento web com TypeScript.
+🚀 Projetos em destaque
+🗣️ ComuniCA — Tecnologia assistiva e inclusão
+Aplicação web de Comunicação Aumentativa e Alternativa (CAA), desenvolvida em equipe para apoiar pessoas com dificuldades na comunicação oral.
 
----
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" alt="React, TypeScript, Vite e Tailwind CSS" />- Biblioteca visual de pictogramas e cartões personalizáveis para comunicação.
+- Construção de frases, sugestões de palavras e síntese de voz com a Web Speech API.
+- Recursos de rotina, mensagens rápidas, emergência e histórico de comunicação.
+- Persistência de dados no navegador com IndexedDB e Dexie.js, seguindo uma abordagem local-first.
+- Interface mobile-first, componentes reutilizáveis e organização por responsabilidades.
+Stack: React · TypeScript · Vite · Tailwind CSS · React Router · Dexie.js · IndexedDB · Dnd Kit · Web Speech API
 
-## 🚀 Sobre mim
+Status: em desenvolvimento, com versão publicada no Cloudflare Pages.
 
-Sou **Arthur Mota**, estudante de **Ciência da Computação** com foco em **desenvolvimento backend**, **arquitetura de software** e **boas práticas de código limpo**.
+<a href="https://github.com/arthur-rmota/ComuniCA"><img src="https://img.shields.io/badge/Código--fonte-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código-fonte do ComuniCA" /></a>
+<a href="https://comunica-28g.pages.dev/"><img src="https://img.shields.io/badge/Acessar_aplicação-2C5364?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Acessar o ComuniCA" /></a>
+<a href="https://arthur-rmota.github.io/ComuniCA-landing-page/"><img src="https://img.shields.io/badge/Conhecer_projeto-0F766E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Landing page do ComuniCA" /></a>
+📋 Power Tasks — Gerenciador de tarefas acadêmicas
+Aplicação web para organizar projetos, acompanhar atividades e gerenciar prazos, prioridades e responsáveis.
 
-Atualmente estou evoluindo como desenvolvedor, aprofundando conhecimentos em:
+<img src="https://skillicons.dev/icons?i=angular,ts,rxjs,nodejs" alt="Angular, TypeScript, RxJS e Node.js" />- CRUD de projetos e tarefas com integração a uma API REST baseada em JSON Server.
+- Quadro Kanban com drag and drop e atualização de status.
+- Formulários reativos, validação de dados, busca e filtros.
+- Frontend publicado no Cloudflare Pages e API hospedada no Render.
+Stack: Angular · TypeScript · RxJS · Angular CDK · Reactive Forms · JSON Server
 
-- ☕ **Java**
-- 🐍 **Python**
-- 🌐 **Desenvolvimento Web** (JS, HTML, CSS)
-- 🏗️ **Arquitetura de Software**
-- 🧠 **Lógica e Estruturas de Dados**
+<a href="https://github.com/arthur-rmota/angular-front-end"><img src="https://img.shields.io/badge/Código--fonte-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código-fonte do Power Tasks" /></a>
+<a href="https://angular-front-end.pages.dev/"><img src="https://img.shields.io/badge/Acessar_aplicação-2C5364?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Acessar o Power Tasks" /></a>
+🐾 PetCare System — Gestão de clínica veterinária
+Sistema desktop desenvolvido em Java, em parceria com Rebeca Alencar, aplicando conceitos de programação orientada a objetos.
 
-Gosto de aprender construindo projetos, entendendo como as coisas funcionam por baixo dos panos e buscando evolução constante.
+<img src="https://skillicons.dev/icons?i=java" alt="Java" />- Gestão de animais, tutores, veterinários e consultas.
+- Prontuários com histórico de procedimentos e cálculo de custos.
+- Modelagem de entidades e aplicação de abstração, encapsulamento, herança, polimorfismo e interfaces.
+Stack: Java · Swing · NetBeans
 
-> "O impossível é só questão de opinião."
-> — Chorão
+<a href="https://github.com/becalencar/petcare-system"><img src="https://img.shields.io/badge/Código--fonte-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código-fonte do PetCare System" /></a>
+🛠️ Tecnologias e ferramentas
+Área	Tecnologias
+Linguagens	<img src="https://skillicons.dev/icons?i=java,python,ts,js" alt="Java, Python, TypeScript e JavaScript" />
+Frontend	<img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,vite" alt="React, Angular, HTML, CSS, Tailwind CSS e Vite" />
+Dados e integração	<img src="https://skillicons.dev/icons?i=mysql,nodejs" alt="MySQL e Node.js" /> 
+ IndexedDB · Dexie.js · JSON Server · APIs REST
+Versionamento e ferramentas	<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,npm" alt="Git, GitHub, VS Code, IntelliJ IDEA, Eclipse e npm" />
+Publicação	<img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /> 
+ Cloudflare Pages · GitHub Pages · Render
 
----
 
-## 🛠️ Tecnologias e Ferramentas
+Conceitos em evolução: programação orientada a objetos, modelagem de dados, Clean Code, arquitetura de software, acessibilidade e estruturas de dados.
+📂 Outros projetos
+Projeto	Descrição	Stack
+ComuniCA — Landing Page	Site de apresentação da aplicação de comunicação assistiva.	HTML
+Sistema Bancário	Contas, depósitos, saques e armazenamento em arquivos de texto.	Python
+Atende Mais	Protótipo de aplicativo e site de apresentação.	HTML, CSS
+Jogo da Velha	Projeto de prática de lógica e interface web.	CSS
+Formulário de Corrida	Exercício de estruturação e estilização de formulários.	HTML, CSS
 
+
+Ver todos os meus repositórios →
+📊 Atividade no GitHub
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode,idea,eclipse" />
-</div>
-
----
-
-## 📌 Projeto em destaque
-
-### 🐾 [PetCare System](https://github.com/becalencar/petcare-system)
-
-Sistema desktop de gerenciamento para clínica veterinária, desenvolvido em **Java** com interface gráfica **Swing**. Projeto acadêmico de Programação Orientada a Objetos, feito em parceria com [Rebeca Alencar](https://github.com/becalencar), aplicando na prática herança, encapsulamento, abstração, polimorfismo e interfaces.
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
-</div>
-
-**Principais funcionalidades:**
-- 🐶 CRUD completo de animais, tutores e veterinários
-- 🩺 Registro de consultas vinculadas a animal e veterinário
-- 📋 Sistema de prontuários com histórico e custo de procedimentos
-- 🏷️ Categorização de procedimentos
-
-📎 Repositório: **[github.com/becalencar/petcare-system](https://github.com/becalencar/petcare-system)**
-
----
-
-## 🗂️ Outros projetos
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🏦 [**Sistema-Bancario**](https://github.com/arthur-rmota/Sistema-Bancario) | Sistema bancário simples com cadastro de contas, depósitos, saques, consulta de saldo e persistência de dados em arquivos `.txt` | `Python` |
-| 🎮 [**jogo-da-velha**](https://github.com/arthur-rmota/jogo-da-velha) | Jogo da velha desenvolvido com foco em lógica de interface | `CSS` |
-| 📋 [**formulario-corrida**](https://github.com/arthur-rmota/formulario-corrida) | Formulário construído aplicando conceitos de HTML e CSS | `HTML` `CSS` |
-| 📱 [**atende-mais**](https://github.com/arthur-rmota/atende-mais) | Protótipo de telas de aplicativo com site complementar de apresentação | `CSS` |
-
-> Veja todos os repositórios em [github.com/arthur-rmota?tab=repositories](https://github.com/arthur-rmota?tab=repositories)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-rmota&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-rmota&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=arthur-rmota&theme=tokyonight&hide_border=true" />
-</div>
-
-> ℹ️ **Nota:** os cards acima usam a instância pública gratuita do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) na Vercel, que às vezes fica instável por limite de uso. Se não carregarem, recarregue a página em alguns minutos ou considere [hospedar sua própria instância](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) para maior estabilidade.
-
----
-
-## 📈 Minha jornada
-
-```text
-2024
-│
-├── 🧠 Comecei minha jornada na Ciência da Computação
-│
-2025
-│
-├── ☕ Aprimorando Java e Python
-├── 🌐 Desenvolvimento Web
-├── 🏗️ Projetos pessoais
-│
-2026+
-│
-└── 🚀 Evoluindo para me tornar um desenvolvedor backend
-```
-
----
-
-## 📫 Contato
-
-<div align="center">
-  <a href="https://github.com/arthur-rmota">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/arthur.rmota/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:arthurrmota740@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/arthur-rodrigues-30b08a364">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arthur-rmota&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas públicas do GitHub" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-rmota&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens nos repositórios públicos" />
+</div><div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=arthur-rmota&theme=tokyonight&hide_border=true" alt="Histórico de contribuições no GitHub" />
+</div><!-- Os cards de estatísticas dependem de serviços externos e podem ficar temporariamente indisponíveis. --><div align="center">
+  <p><i>“O impossível é só questão de opinião.” — Chorão</i></p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="" />
 </div>
