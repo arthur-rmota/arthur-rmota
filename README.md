@@ -1,102 +1,100 @@
-<h1 align="center">Arthur Mota</h1>
+<div align="center">
 
-<p align="center">
-  Estudante de Ciência da Computação • Backend • Arquitetura de Software • Desenvolvimento Web
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=190&section=header&text=Arthur%20Mota&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<p align="center">
-  <a href="https://github.com/arthur-rmota">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/arthur-rodrigues-30b08a364">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/arthur.rmota/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8DB6C7&center=true&vCenter=true&width=700&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Backend+%E2%80%A2+Arquitetura+de+Software;Java+%E2%80%A2+Python+%E2%80%A2+TypeScript;Construindo+solu%C3%A7%C3%B5es+com+prop%C3%B3sito" alt="Typing SVG" />
 
----
+<br>
 
-## Sobre mim
+<a href="https://github.com/arthur-rmota">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/arthur-rodrigues-30b08a364">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:arthurrmota740@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/arthur.rmota/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-Sou estudante de **Ciência da Computação**, com foco em **desenvolvimento backend**, **arquitetura de software** e **boas práticas de desenvolvimento**.
-
-Tenho interesse em construir aplicações bem estruturadas, evoluindo principalmente em **Java**, **Python** e **TypeScript**, além de explorar soluções web com foco em organização, usabilidade e código limpo.
+</div>
 
 ---
 
-## Projetos em destaque
+## 👨‍💻 Sobre mim
 
-### **ComuniCA**
-Aplicação voltada à comunicação assistiva, com foco em acessibilidade e experiência do usuário.
+Sou estudante de **Ciência da Computação**, com foco em **backend**, **arquitetura de software** e **boas práticas de desenvolvimento**.
 
-- Interface moderna e organizada
-- Estruturação de componentes e foco em usabilidade
-- Projeto com maior nível de complexidade e relevância no portfólio
-
-**Stack:** `TypeScript` `JavaScript` `HTML` `CSS`  
-**Repositório:** [ComuniCA](https://github.com/arthur-rmota/ComuniCA)
+Tenho interesse em construir aplicações bem estruturadas, funcionais e com propósito, evoluindo principalmente em **Java**, **Python** e **TypeScript**.
 
 ---
 
-### **PetCare System**
-Sistema desktop para gerenciamento de clínica veterinária, desenvolvido em Java com interface gráfica.
+## 🚀 Projeto em destaque
 
-- Cadastro de animais, tutores e veterinários
-- Registro de consultas e prontuários
-- Aplicação prática de POO
+<div align="center">
 
-**Stack:** `Java` `Swing`  
-**Repositório:** [PetCare System](https://github.com/becalencar/petcare-system)
+### 🗣️ ComuniCA
 
----
+**Tecnologia assistiva voltada à comunicação alternativa e inclusão.**
 
-### **Sistema-Bancario**
-Projeto em Python com operações bancárias e persistência de dados.
+<a href="https://github.com/arthur-rmota/ComuniCA">
+  <img src="https://img.shields.io/badge/C%C3%B3digo-fonte-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-- Cadastro de contas
-- Depósitos, saques e saldo
-- Manipulação de arquivos `.txt`
+</div>
 
-**Stack:** `Python`  
-**Repositório:** [Sistema-Bancario](https://github.com/arthur-rmota/Sistema-Bancario)
+<br>
 
----
+O **ComuniCA** é um dos projetos mais relevantes do meu portfólio, desenvolvido com foco em **acessibilidade**, **experiência do usuário** e **organização de interface**.
 
-## Tecnologias
+### Principais pontos do projeto
+- Interface moderna e intuitiva
+- Foco em comunicação assistiva
+- Estruturação de componentes e organização do código
+- Aplicação de conceitos de usabilidade e acessibilidade
 
+### Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css,react,angular,mysql,git,github,vscode,idea" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-## Outros projetos
+## 🛠️ Tecnologias e Ferramentas
 
-- [ComuniCA Landing Page](https://github.com/arthur-rmota/ComuniCA-landing-page)
-- [jogo-da-velha](https://github.com/arthur-rmota/jogo-da-velha)
-- [formulario-corrida](https://github.com/arthur-rmota/formulario-corrida)
-- [atende-mais](https://github.com/arthur-rmota/atende-mais)
-
-➡️ Veja todos os repositórios em: [github.com/arthur-rmota](https://github.com/arthur-rmota?tab=repositories)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css,react,angular,mysql,git,github,vscode,idea,eclipse" />
+</div>
 
 ---
 
-## Estatísticas
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arthur-rmota&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-rmota&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arthur-rmota&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-rmota&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=arthur-rmota&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <i>"O impossível é só questão de opinião."</i><br>
   — Chorão
-</p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+</div>
